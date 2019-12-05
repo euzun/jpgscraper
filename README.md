@@ -2,8 +2,8 @@
 JpgScraper: An Advanced Carver for JPEG Files
 
 This is a wrapper repository introducing tools used and proposed in following papers. Please cite properly.
-* [jpeg-carver-csharp-source](): Coming soon!
 * [jpeg-classifier-csharp-source](): A C# tool to discriminate encoded JPEG data from 993 different file data types. Coming soon!
+* [jpeg-carver-csharp-source](): Coming soon!
 * [jpeg-carver-csharp-exe](https://github.com/euzun/jpeg-carver-csharp): A C# toolbox to recover orphaned fragment (without any header information) data. Data is searched and recovered from given data file (100 times faster than Matlab implementation).
 * [jpeg-carver-matlab](https://github.com/euzun/jpeg-carver-matlab): A Matlab toolbox to recover orphaned fragment (without any header information) data. Data is given as binary or hexadecimal string.
 * [flickr-crawler](https://github.com/euzun/flickr-crawler): A java tool for crawling and downloading public images from Flickr by keywords, geo-locations etc.
