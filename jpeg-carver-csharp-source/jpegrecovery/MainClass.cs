@@ -64,7 +64,7 @@ namespace JpegRecovery
             //    m.recoverOrphanedFragments(counter, basePath);
 
 
-            //    Console.WriteLine(i+" Fucking Done!!");
+            //    Console.WriteLine(i+" Done!!");
             //}
 
 
